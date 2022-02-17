@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F326AA727BEB9EF003830AA /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F326AA627BEB9EF003830AA /* SwiftyJSON.swift */; };
 		3F65E1BA27BC116E00A7A00E /* API_CallingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F65E1B927BC116E00A7A00E /* API_CallingApp.swift */; };
 		3F65E1BC27BC116F00A7A00E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F65E1BB27BC116F00A7A00E /* ContentView.swift */; };
 		3F65E1BE27BC117800A7A00E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F65E1BD27BC117800A7A00E /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3F326AA627BEB9EF003830AA /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 		3F65E1B627BC116E00A7A00E /* API Calling.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "API Calling.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F65E1B927BC116E00A7A00E /* API_CallingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API_CallingApp.swift; sourceTree = "<group>"; };
 		3F65E1BB27BC116F00A7A00E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 			children = (
 				3F65E1B927BC116E00A7A00E /* API_CallingApp.swift */,
 				3F65E1BB27BC116F00A7A00E /* ContentView.swift */,
+				3F326AA627BEB9EF003830AA /* SwiftyJSON.swift */,
 				3F65E1BD27BC117800A7A00E /* Assets.xcassets */,
 				3F65E1C227BC117800A7A00E /* Info.plist */,
 				3F65E1BF27BC117800A7A00E /* Preview Content */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F326AA727BEB9EF003830AA /* SwiftyJSON.swift in Sources */,
 				3F65E1BC27BC116F00A7A00E /* ContentView.swift in Sources */,
 				3F65E1BA27BC116E00A7A00E /* API_CallingApp.swift in Sources */,
 			);
